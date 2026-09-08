@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/jclopezm99/skills-write-javascript-actions#readme",
   "dependencies": {
-    "@actions/core": "^3.0.1",
+    "@actions/core": "^1.11.1",
     "@vercel/ncc": "^0.45.0",
+    "axios": "^1.20.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
